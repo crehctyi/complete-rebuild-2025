@@ -5,9 +5,9 @@
 **Why?**  
 To master C++, algorithms, and data structures
 
-**Timeframe**: Summer 2025 (3 months)  
+**Timeframe**: Summer 2025   
 **Daily Time Commitment**: 5–8 hours  
-**Languages**: C++ (primary), Python (secondary for testing logic)
+**Languages**: C++, Python 
 
 ---
 
@@ -20,7 +20,7 @@ To master C++, algorithms, and data structures
 
 ---
 
-## Key Goals
+## Goals
 - Master STL and competitive patterns (2-pointers, binary search, DP, graphs)
 - Solve 300+ quality problems (CSES, CF, AtCoder)
 - Build intuition, not rely on memory
