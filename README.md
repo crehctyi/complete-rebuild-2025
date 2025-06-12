@@ -11,7 +11,7 @@ To master C++, algorithms, and data structures
 
 ---
 
-## 📅 Progress Log
+## Progress Log
 
 | Day | Topics | Problems Solved | Notes |
 |-----|--------|------------------|-------|
@@ -20,7 +20,7 @@ To master C++, algorithms, and data structures
 
 ---
 
-## 📌 Key Goals
+## Key Goals
 - Master STL and competitive patterns (2-pointers, binary search, DP, graphs)
 - Solve 300+ quality problems (CSES, CF, AtCoder)
 - Build intuition, not rely on memory
