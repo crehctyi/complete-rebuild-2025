@@ -13,4 +13,4 @@
 - Learned arrays: max, min, sum, reverse
 - Learned strings: input, length, modify, compare
 - Solved 3 array/string problems
-- (Optional) Solved Codeforces 339A
+- Solved Codeforces 339A
