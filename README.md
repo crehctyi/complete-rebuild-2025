@@ -14,3 +14,9 @@
 - Learned strings: input, length, modify, compare
 - Solved 3 array/string problems
 - Solved Codeforces 339A
+
+ ## Day 4 – June 23
+- Learned how `bool` logic works in C++
+- Wrote function `isPrime(n)`
+- Practiced using return values in modular functions
+- Fully understood condition-based returns
