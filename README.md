@@ -24,3 +24,11 @@
 - Understood recursion using GCD
 - Practiced writing boolean and int functions
 - Learned that recursion calls repeat until base case is met
+
+# Week 2
+
+## Day 1 – Arrays, Strings
+- Practiced array basics, indexing, looping
+- Practiced string manipulation
+- Wrote programs to process input
+- Solved 2 CF problems
