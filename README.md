@@ -18,5 +18,9 @@
  ## Day 4 – June 23
 - Learned how `bool` logic works in C++
 - Wrote function `isPrime(n)`
-- Practiced using return values in modular functions
 - Fully understood condition-based returns
+
+## Day 5 – June 24
+- Understood recursion using GCD
+- Practiced writing boolean and int functions
+- Learned that recursion calls repeat until base case is met
