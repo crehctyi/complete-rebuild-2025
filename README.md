@@ -27,13 +27,13 @@
 
 # Week 2
 
-## Day 1 – Arrays, Strings
+## Day 1 – June 27
 - Practiced array basics, indexing, looping
 - Practiced string manipulation
 - Wrote programs to process input
 - Solved 2 CF problems
 
-## Week 2 – Day 2
+## Week 2 – June 28
 - Learned vectors, push_back, pop_back, for-each loop
 - Looped through strings to count vowels
 - Reversed a string
