@@ -38,3 +38,9 @@
 - Looped through strings to count vowels
 - Reversed a string
 - Filtered even-length words from vector
+
+## Day 3 – June 29
+- Reversed a string manually and with STL
+- Checked for palindromes
+- Learned `vector` and `sort()`
+
