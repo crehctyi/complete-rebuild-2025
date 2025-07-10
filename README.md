@@ -33,7 +33,7 @@
 - Wrote programs to process input
 - Solved 2 CF problems
 
-## Week 2 – June 28
+## Day 2 – June 28
 - Learned vectors, push_back, pop_back, for-each loop
 - Looped through strings to count vowels
 - Reversed a string
