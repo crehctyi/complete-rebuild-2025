@@ -4,7 +4,7 @@ using namespace std;
 int main() {
     int arr[5] = {4,2,7,1,9};
 
-    cout << "Array elements";
+    cout << "Array elements: ";
     for(int i = 0; i < 5; i++)
     cout << arr[i] << " ";
     cout << endl;

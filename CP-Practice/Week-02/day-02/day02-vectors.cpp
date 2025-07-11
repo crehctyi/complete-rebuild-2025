@@ -16,6 +16,12 @@ int main()
     {
         cout << nums[i] << " ";
     }
+
+    cout << "FOr-each loop output: ";
+    for (int x : nums) {
+        cout << x <<" ";
+    }
+    cout << endl;
     
     cout << "\nSize: " << nums.size() << endl;
     return 0;
