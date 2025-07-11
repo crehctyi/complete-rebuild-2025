@@ -44,3 +44,7 @@
 - Checked for palindromes
 - Learned `vector` and `sort()`
 
+## Day 4 – June 30
+- Wrote a function to check if a number is prime
+- Wrote a recursive function for GCD using Euclidean algorithm
+
