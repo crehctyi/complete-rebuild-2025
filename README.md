@@ -52,5 +52,5 @@
 - Practiced vector input and loops
 - Found min, max, and average of a list of numbers
 - Used STL sort to prepare for median
-- Wrote clean, reusable functions
+
 
