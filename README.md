@@ -48,3 +48,9 @@
 - Wrote a function to check if a number is prime
 - Wrote a recursive function for GCD using Euclidean algorithm
 
+## Day 5 – July 1
+- Practiced vector input and loops
+- Found min, max, and average of a list of numbers
+- Used STL sort to prepare for median
+- Wrote clean, reusable functions
+
