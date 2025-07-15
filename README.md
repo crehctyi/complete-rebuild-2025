@@ -53,4 +53,11 @@
 - Found min, max, and average of a list of numbers
 - Used STL sort to prepare for median
 
+# Week 3 
+
+## Day 1 – July 4
+- Created `isPrime()` to check for prime numbers
+- Wrote `gcd()` and `lcm()` functions
+- Counted primes between 1 and N
+
 
