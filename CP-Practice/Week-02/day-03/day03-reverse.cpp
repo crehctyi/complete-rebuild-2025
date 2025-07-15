@@ -11,7 +11,7 @@ int main(){
     for (int i = word.length() -1; i >= 0; i--) {
         rev += word[i];
     }
-        if (rev == word){
+    if (rev == word){
             cout << "This is a palinfrome!" << endl;
         } else {
             cout << "Not a palindrome." << endl;
