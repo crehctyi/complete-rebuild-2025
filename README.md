@@ -59,5 +59,9 @@
 - Created `isPrime()` to check for prime numbers
 - Wrote `gcd()` and `lcm()` functions
 - Counted primes between 1 and N
-
+## Day 2 – July 5
+- Wrote `gcd()` using recursion (Euclidean algorithm)
+- Wrote `lcm()` using GCD
+- Used `isPrime()` to test both numbers
+- Practiced modular design
 
