@@ -23,5 +23,5 @@ int main() {
     }
     cout << "sum of odd number from 1 to" << n << ": " << sum << endl;
 
-    return
+    return 0;
 }
