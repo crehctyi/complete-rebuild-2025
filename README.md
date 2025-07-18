@@ -27,6 +27,7 @@
 
 # Week 2
 
+
 ## Day 1 – June 27
 - Practiced array basics, indexing, looping
 - Practiced string manipulation
@@ -55,6 +56,7 @@
 
 # Week 3 
 
+
 ## Day 1 – July 4
 - Created `isPrime()` to check for prime numbers
 - Wrote `gcd()` and `lcm()` functions
@@ -64,4 +66,7 @@
 - Wrote `lcm()` using GCD
 - Used `isPrime()` to test both numbers
 - Practiced modular design
-
+##  Day 3 – Prime Range & Sieve
+- Used `isPrime()` to count primes in a range
+- Implemented Sieve of Eratosthenes
+- Reviewed function reuse and vector<bool>
