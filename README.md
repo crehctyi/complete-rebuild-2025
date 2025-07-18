@@ -66,7 +66,11 @@
 - Wrote `lcm()` using GCD
 - Used `isPrime()` to test both numbers
 - Practiced modular design
-##  Day 3 – Prime Range & Sieve
+## Day 3 – July 6
 - Used `isPrime()` to count primes in a range
 - Implemented Sieve of Eratosthenes
 - Reviewed function reuse and vector<bool>
+## Day 4 – July 7
+- Counted numbers divisible by a given value
+- Wrote a FizzBuzz program with logic branches
+- Discovered last-digit patterns using mod
