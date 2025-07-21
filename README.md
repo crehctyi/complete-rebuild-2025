@@ -74,3 +74,7 @@
 - Counted numbers divisible by a given value
 - Wrote a FizzBuzz program with logic branches
 - Discovered last-digit patterns using mod
+## Day 5 – July 8
+- Created a function to check divisibility
+- Wrote a digit-sum function
+- Learned about Harshad numbers
