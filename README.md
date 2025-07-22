@@ -78,3 +78,10 @@
 - Created a function to check divisibility
 - Wrote a digit-sum function
 - Learned about Harshad numbers
+
+  ## Week 4
+
+  ## Week 4 - July 11
+- Learned what classes are
+- Made a Book and BankAccount class
+- Used constructors and private/public
