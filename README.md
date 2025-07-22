@@ -81,7 +81,7 @@
 
   ## Week 4
 
-  ## Week 4 - July 11
+  ## Day 1 - July 11
 - Learned what classes are
 - Made a Book and BankAccount class
 - Used constructors and private/public
