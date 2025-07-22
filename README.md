@@ -1,4 +1,4 @@
-  ## Day 1 – June 20
+   ## Day 1 – June 20
 - Printed "Hello World"
 - Learned variables, I/O, loops, if-else, functions
 - Solved 3 beginner CF problems
@@ -28,7 +28,7 @@
 # Week 2
 
 
-  ## Day 1 – June 27
+   ## Day 1 – June 27
 - Practiced array basics, indexing, looping
 - Practiced string manipulation
 - Wrote programs to process input
@@ -57,7 +57,7 @@
 # Week 3 
 
 
-  ## Day 1 – July 4
+   ## Day 1 – July 4
 - Created `isPrime()` to check for prime numbers
 - Wrote `gcd()` and `lcm()` functions
 - Counted primes between 1 and N
@@ -82,7 +82,7 @@
 
 ## Week 4
 
-  ## Day 1 - July 11
+   ## Day 1 - July 11
 - Learned what classes are
 - Made a Book and BankAccount class
 - Used constructors and private/public
