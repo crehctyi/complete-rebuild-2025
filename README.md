@@ -90,3 +90,15 @@
 - Created a BankAccount class
 - Learned how to write and call class methods
 - Practiced object-oriented design with deposit/withdraw
+  ## Day 3 – July 13
+- Used `isPrime()` to count primes in a range
+- Implemented Sieve of Eratosthenes
+- Reviewed function reuse and vector<bool>
+## Day 4 – July 14
+- Counted numbers divisible by a given value
+- Wrote a FizzBuzz program with logic branches
+- Discovered last-digit patterns using mod
+## Day 5 - July 15
+- Built a calculator using a C++ class
+- Practiced using methods for math operations
+- Used object-oriented design in a simple context
