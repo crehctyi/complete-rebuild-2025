@@ -25,7 +25,7 @@
 - Practiced writing boolean and int functions
 - Learned that recursion calls repeat until base case is met
 
-# Week 2
+  # Week 2
 
 
 ## Day 1 – June 27
