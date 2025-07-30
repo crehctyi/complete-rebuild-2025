@@ -25,7 +25,7 @@
 - Practiced writing boolean and int functions
 - Learned that recursion calls repeat until base case is met
 
-  # Week 2 endl;
+  # Week 2 
 
 
 ## Day 1 – June 27
@@ -102,7 +102,8 @@
 - Built a calculator using a C++ class
 - Practiced using methods for math operations
 - Used object-oriented design in a simple context
-# Week 5
+
+  # Week 5
 
 ## – Day 1 - July 17
 - Learned how to write user data to a file
