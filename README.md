@@ -109,7 +109,12 @@
 - Learned how to write user data to a file
 - Practiced reading that data back using `ifstream`
 - Used `getline()` and file handling logic
-## Day 2 - july 18
+## Day 2 - July 18
 - Used `rand()` and `srand()` to generate numbers
 - Wrote random numbers to a file
 - Read numbers from file and calculated average
+  ## Day 3 - July 19
+- Generated random math problems
+- Used user input to check answers
+- Saved all questions and answers to a log file
+- Practiced loops, rand(), and file writing
