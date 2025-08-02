@@ -105,7 +105,7 @@
 
   # Week 5
 
-## – Day 1 - July 17
+## Day 1 - July 17
 - Learned how to write user data to a file
 - Practiced reading that data back using `ifstream`
 - Used `getline()` and file handling logic
@@ -113,8 +113,12 @@
 - Used `rand()` and `srand()` to generate numbers
 - Wrote random numbers to a file
 - Read numbers from file and calculated average
-  ## Day 3 - July 19
+## Day 3 - July 19
 - Generated random math problems
 - Used user input to check answers
 - Saved all questions and answers to a log file
 - Practiced loops, rand(), and file writing
+## Day 4 - july 20
+- Practiced loops and random number generation
+- Checked number properties: even/odd, divisible by 3, and prime
+- Used `rand()` and conditionals for logic building
