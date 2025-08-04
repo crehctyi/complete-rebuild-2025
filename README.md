@@ -122,3 +122,8 @@
 - Practiced loops and random number generation
 - Checked number properties: even/odd, divisible by 3, and prime
 - Used `rand()` and conditionals for logic building
+## Day 5 - july 21
+- Practiced input/output and loop logic
+- Used random number generation
+- Reinforced if/else and while loop skills
+- Counted number of user attempts
