@@ -127,3 +127,14 @@
 - Used random number generation
 - Reinforced if/else and while loop skills
 - Counted number of user attempts
+
+  # Week 6
+
+## Day 1 - July 24
+- Created a Book class with:
+  -  Title, author, and year attributes
+  - A constructor to initialize books
+  - A method isClassic() to check if the book is older than 50 years
+  - Stored multiple books using vector<Book>
+  - Used a for loop to display all book info
+  - Added a search feature to find books by author name
