@@ -138,3 +138,7 @@
   - Stored multiple books using vector<Book>
   - Used a for loop to display all book info
   - Added a search feature to find books by author name
+## Day 2 - July 25
+- Added a `display()` method to Book
+- Performed case-insensitive search by author
+- Allowed user to enter books manually
