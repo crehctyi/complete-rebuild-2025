@@ -142,3 +142,7 @@
 - Added a `display()` method to Book
 - Performed case-insensitive search by author
 - Allowed user to enter books manually
+## Day 3 - july 26
+- Created `Game` class with title, platform, and year
+- Stored multiple games in `vector<Game>`
+- Added ability to add, sort, delete, and update games
