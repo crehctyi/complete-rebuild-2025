@@ -146,3 +146,10 @@
 - Created `Game` class with title, platform, and year
 - Stored multiple games in `vector<Game>`
 - Added ability to add, sort, delete, and update games
+
+  # Week 7
+
+## Day 1 - Oct 21
+- Learned robot-style program flow (setup + loop)
+- Simulated robot motion using C++ functions
+- Practiced sequential motor logic
